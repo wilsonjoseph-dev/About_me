@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @WilsonJoeph-hub
+- 👋 Hi, I’m @WilsonJoeph-dev
 - 👀 I’m interested in data analysis and web development
 - 🌱 I’m currently learning both of them
-- 💞️ I’m looking to collaborate
-- 📫 How to reach me wilsonjoseph-hub
+- 📫 How to reach me wilsonjoseph-dev
 
 <!---
 WilsonJoeph-hub/WilsonJoeph-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
