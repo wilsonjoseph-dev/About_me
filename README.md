@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WilsonJoeph-dev
+- 👋 Hi, I’m @wilsonjoeph-dev
 - 👀 I’m interested in data analysis and web development
 - 🌱 I’m currently learning both of them
 - 📫 How to reach me wilsonjoseph-dev
