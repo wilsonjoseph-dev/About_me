@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 ## About Me
-I'm a recent MBA graduate with a background in Finance, HR, and Electrical Engineering. Currently, I'm honing my skills in front-end development and digital marketing. I am passionate about creating user-friendly designs and leveraging technology to solve real-world problems.
+I'm a recent MBA graduate with a background in Finance, HR, and Electrical Engineering. Currently, I'm honing my skills in front-end development. I am passionate about creating user-friendly designs and leveraging technology to solve real-world problems.
 
 ---
 
